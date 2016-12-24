@@ -2,6 +2,9 @@
 LXD
 ===
 
+This project MOVED to `saltstack-formulas`_
+===========================================
+
 `LXD`_ is a container "hypervisor". This formulas provides
 several states to help manage it and its containers.
 
@@ -18,7 +21,7 @@ Before we forget it, `LXD`_ and this formula allows you to
 **migrate unprivliged containers** from one host to another!
 
 .. _LXD: https://linuxcontainers.org/lxd/
-
+.. _saltstack-formulas: https://github.com/saltstack-formulas/lxd-formula
 
 TODOS
 =====
